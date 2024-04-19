@@ -145,7 +145,7 @@ keyconfig_data = \
        ],
       },
      ),
-    ("view3d.view_selected", {"type": 'NUMPAD_PERIOD', "value": 'PRESS'}, None),
+    ("view3d.view_selected", {"type": 'QUOTE', "value": 'PRESS'}, None),
     ("view3d.smoothview", {"type": 'TIMER1', "value": 'ANY', "any": True}, None),
     ("view3d.zoom", {"type": 'TRACKPADZOOM', "value": 'ANY'}, None),
     ("view3d.zoom", {"type": 'TRACKPADPAN', "value": 'ANY', "ctrl": True}, None),
