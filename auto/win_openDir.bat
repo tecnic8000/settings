@@ -2,7 +2,7 @@
 setlocal
 
 rem List of directories
-set dirs="C:\path\to\directory1" "C:\path\to\directory2" "C:\path\to\directory3"
+set dirs="D:\REPO\sys" "D:\REPO\t8000" "D:\REPO\artSupp1"
 
 rem Loop through each directory and open it
 for %%d in (%dirs%) do (
